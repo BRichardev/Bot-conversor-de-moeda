@@ -14,7 +14,8 @@ node index.js
 
 # Dependências 
 ```bash
-# O puppeteer é usado no projeto por causa do controle do chromium, as propriedades como alocação de page em const e as promises
+# O puppeteer é usado no projeto por causa do controle do 
+#chromium, as propriedades como alocação de page em const e as promises
 npm i puppeteer --save-dev
 # readline-sync serve para podemos mudar os valores das constantes que usamos no async
 # Na API uso para mudar os valores das moedas que pego 
